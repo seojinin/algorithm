@@ -1,6 +1,6 @@
 # JUNGOL [8553_STL Sort 2]
 https://jungol.co.kr/problem/8553
-- 제한: 시간 _초 / 메모리 _MB
+- 제한: 시간 2초 / 메모리 1024MB
 - 분류: 정렬 (STL 문법 Tutorial)
 - 풀이 날짜: 2026-11-09
 
